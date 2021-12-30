@@ -1,0 +1,2 @@
+# Gitskills
+Clone remote repo
